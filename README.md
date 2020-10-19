@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <img height="25" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> </img>
+
+![Hemerson's github stats](https://github-readme-stats.vercel.app/api?username=hemerson-git&show_icons=true&theme=dracula)
