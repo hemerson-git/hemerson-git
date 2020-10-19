@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Earth.gif" width="24px">
 
 <!--
 **hemerson-git/hemerson-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
