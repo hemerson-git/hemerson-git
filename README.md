@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> </img>
-<img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> </img>   
+<img height="25" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></img>
 
 <a href="https://github.com/hemerson-git">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=hemerson-git&count_private=true&show_icons=true&theme=omni&hide_border=false&include_all_commits=true&layout=compact&)" />
