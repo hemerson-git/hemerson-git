@@ -1,5 +1,7 @@
 ## <img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Earth.gif" width="24px">
 
+# Hemerson Oliveira
+
 <!--
 **hemerson-git/hemerson-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+I'm a Frontend Software Developer and a person who is just passionate about technology.
+
+I'm majoring in information systems at Instituto Federal da Bahia (IFBA)
+
+I love the thought that I can build new things and transform not just my life, but the lives of many people through lines of code.
 
 #### Languages and tools already experienced and improving:
 
