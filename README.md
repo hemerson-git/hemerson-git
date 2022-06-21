@@ -1,4 +1,4 @@
-## <img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Earth.gif" width="24px">
+## <img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Hi.gif" height="29px"> Hello world!&nbsp;<img src="https://github.com/hemerson-git/hemerson-git/blob/master/assets/Earth.gif" height="24px">
 
 # Hemerson Oliveira
 
