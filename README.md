@@ -27,7 +27,7 @@ I love the thought that I can build new things and transform not just my life, b
 
 ## Join Me
 
-<a href="https://www.linkedin.com/in/hemerson-silva-869137186/">
+<a href="https://www.linkedin.com/in/hemerson-silva-869137186/" target="_blank">
   <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
