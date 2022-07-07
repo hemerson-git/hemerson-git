@@ -66,4 +66,6 @@ I love the thought that I can build new things and transform not just my life, b
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemerson-git&langs_count=8&layout=compact&theme=omni&hide_border=false&include_all_commits=true&count_private=true&)" />
 </a>
 
-![Snake animation](https://github.com/hemerson-git/hemerson-git/blob/output/github-contribution-grid-snake.svg)
+<!--
+// ![Snake animation](https://github.com/hemerson-git/hemerson-git/blob/output/github-contribution-grid-snake.svg)
+-->
